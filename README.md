@@ -1,7 +1,7 @@
 # ArchitectTemplate
 
 ## Description
-This application is designed to be a frontend clone of the w3schools template - Architect Template. This application was created using HTML, CSS, and JavaScript.
+This application is designed to be a frontend clone of the w3schools template - Architect Template. This application was created using HTML and CSS.
 
 ## Screenshot of Application
 ![Screenshot](homepage-architect.png)
