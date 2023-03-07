@@ -6,4 +6,5 @@ This application is designed to be a frontend clone of the w3schools template - 
 ## Screenshot of Application
 ![Screenshot](homepage-architect.png)
 
-## Deployed Application Click [here](https://angelomarlopez.github.io/ArchitectTemplate/) for Architect Template Live URL.
+## Deployed Application
+Click [here](https://angelomarlopez.github.io/ArchitectTemplate/) for Architect Template Live URL.
